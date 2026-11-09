@@ -1,0 +1,18 @@
+body {
+    font-family: Papyrus, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+}
+
+.question {
+    background: #00fbff;
+background: linear-gradient(90deg, rgba(0, 251, 255, 1) 0%, rgba(107, 196, 255, 1) 50%, rgba(0, 21, 255, 1) 99%, rgba(237, 221, 83, 1) 100%);
+    padding: 15px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+
+.answer {
+    padding: 15px;
+   background: #0026ff;
+background: linear-gradient(90deg, rgba(0, 38, 255, 1) 0%, rgba(107, 196, 255, 1) 50%, rgba(0, 255, 251, 1) 99%, rgba(237, 221, 83, 1) 100%);
